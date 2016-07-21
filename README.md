@@ -1,2 +1,7 @@
 # github-course
-Data shared between home and work
+=================
+These are files for a practice github course.
+
+Important links
+---------------
+* [Stanford] (https://github.com/silderam/github-course.git)
